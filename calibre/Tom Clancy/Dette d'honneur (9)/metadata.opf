@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">9</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3ced44a0-bec2-44fe-8fd3-316b51cbc3c0</dc:identifier>
+        <dc:title>Dette d'honneur</dc:title>
+        <dc:creator opf:file-as="Clancy, Tom" opf:role="aut">Tom Clancy</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-03-05T23:00:00+00:00</dc:date>
+        <dc:description>La paix... Le nouvel ordre mondial... Et si les vaincus d'hier décidaient de se venger pour régler une dette d'honneur? L'Histoire n'a pas de fin. Une nouvelle guerre commence, la plus meurtrière de toutes: la guerre économique. 
+Tiré de sa retraite pour lutter contre un ennemi infiltré au coeur de l'économie américaine, Jack Ryan, le célèbre héros de Danger immédiat, La somme de toutes les peurs et Sans aucun remords, est nommé chef du Conseil national de sécurité. Il devra apprendre à maîtriser les systèmes informatiques que l'adversaire menace de paralyser. 
+Le temps presse. Quelque part dans le Pacifique, un homme d'affaires japonais fourbit ses armes. Le conflit est proche. Ryan pourra-t-il stopper les événements en chaîne qui risquent d'ébranler le monde ?</dc:description>
+        <dc:publisher>Albin Michel</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">6f5ea25e-4ded-4eb5-8931-d22ff39de7a3</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>Techno-Thriller</dc:subject>
+        <meta content="{&quot;Tom Clancy&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-04-27T15:04:24.026126+00:00" name="calibre:timestamp"/>
+        <meta content="Dette d'honneur" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

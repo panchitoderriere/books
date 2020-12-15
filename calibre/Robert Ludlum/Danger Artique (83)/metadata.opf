@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">83</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8e6ce088-7496-4ce0-8719-7226b001a2b5</dc:identifier>
+        <dc:title>Danger Artique</dc:title>
+        <dc:creator opf:file-as="Ludlum, Robert" opf:role="aut">Robert Ludlum</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-11-17T20:00:00+00:00</dc:date>
+        <dc:description>Sur une île désolée du Grand Nord canadien, un bombardier se fracasse contre un glacier d’altitude. Certes, cet avion n’est qu’une relique de la guerre froide, mais la menace qu’il représente pour le monde n’en est pas moins réelle : deux tonnes d’anthrax militarisé se trouvent à bord de l’appareil...
+Le lieutenant-colonel Jon Smith, bras armé du président des Etats-Unis, est chargé, avec son équipe, de prendre le contrôle de l’île, de sécuriser le site et d’éviter une Troisième Guerre mondiale. Privé de toute forme d’assistance dans cet environnement hostile, lui et ses hommes doivent composer avec un officier de liaison russe mandaté par son gouvernement... 
+Smith commence à comprendre que ce vieux bombardier renferme un secret bien plus redoutable que les armes qu’il transporte, un secret qui pourrait bouleverser la compréhension de l’histoire, et que les Russes veulent garder à tout prix.</dc:description>
+        <dc:publisher>jm974</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">65599dcf-947e-42e5-b815-1884605ec0ff</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>Espionnage</dc:subject>
+        <meta content="{&quot;Robert Ludlum&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-04-27T15:09:14.758272+00:00" name="calibre:timestamp"/>
+        <meta content="Danger Artique" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

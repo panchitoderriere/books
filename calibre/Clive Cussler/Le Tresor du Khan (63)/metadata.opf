@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">63</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">26ea6271-dd80-4534-9472-df5ddea90588</dc:identifier>
+        <dc:title>Le Tresor du Khan</dc:title>
+        <dc:creator opf:file-as="Cussler, Clive" opf:role="aut">Clive Cussler</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-01-01T23:00:00+00:00</dc:date>
+        <dc:description>&lt;h3 style="text-align: justify;"&gt;&lt;span class="Apple-style-span" style="font-family: verdana, arial, helvetica, sans-serif; font-weight: normal; font-size: small; "&gt;Russie, lac Baïkal. Un bateau de pêche évite de justesse une vague monstrueuse. Catastrophe naturelle ? Rien n'est moins sûr – d'autant que l'équipage est bientôt kidnappé et que le navire de Dirk Pitt manque à son tour d'être coulé. L'enquête nous conduit alors en Mongolie, où un mystérieux magnat du pétrole est prêt à tout pour rétablir la gloire de son aïeul, un conquérant dont l'empire dépassait en son temps celui d'Alexandre le Grand. Des lacs gelés de Sibérie aux déserts brûlants du nord de la Chine, Dirk Pitt découvre des indices qui vont le mener sur les traces d'un trésor fantastique. Mais, pour l'atteindre, il doit arrêter le descendant de Gengis Khan, avant qu'il ne soit trop tard… Porté par un rythme haletant, &lt;i&gt;Le Trésor du Khan&lt;/i&gt; prouve une fois de plus qu'en matière de romans d'aventures nul ne peut surpasser Clive Cussler.&lt;/span&gt;&lt;/h3&gt;</dc:description>
+        <dc:publisher>Berkley</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780425218235</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">1f09bced-ff79-4c2b-82d9-f43b99c94c30</dc:identifier>
+        <dc:language>fra</dc:language>
+        <meta content="{&quot;Clive Cussler&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-04-27T15:06:40.409135+00:00" name="calibre:timestamp"/>
+        <meta content="Le Tresor du Khan" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

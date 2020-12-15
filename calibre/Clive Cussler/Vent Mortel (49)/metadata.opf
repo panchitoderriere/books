@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">49</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">555a7a56-ffea-4c34-90c9-2201cc7d4549</dc:identifier>
+        <dc:title>Vent Mortel</dc:title>
+        <dc:creator opf:file-as="Cussler, Clive" opf:role="aut">Clive Cussler</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-01-07T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div style="text-align: justify;"&gt;&lt;span class="Apple-style-span" style="font-size: small; font-family: verdana, arial, helvetica, sans-serif; "&gt;à la fin de la Seconde Guerre mondiale, les Japonais lancèrent deux de leurs derniers sous-marins vers la côte Ouest des états-Unis, avec à leur bord des capsules contenant un redoutable virus. Leur objectif : déchaîner l’enfer. Un homme, informé de cette mission ultra-secrète, sait qu’aucun des deux sous-marins n’atteignit son but. Cependant, il croit connaître l’endroit où ils reposent encore, et conçoit un plan démoniaque pour utiliser leur cargaison – un plan qui pourrait remodeler entièrement l’Amérique, et peut-être le monde. Mais le clan Pitt se trouve sur son chemin. C’est la première fois que Dirk Pitt, nouveau directeur de la NUMA, fait équipe avec ses enfants, Summer, biologiste océanographe, et Dirk, architecte naval. C’est aussi la première fois qu’il affronte le diable en personne...&lt;/span&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Livre de Poche</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9782253126911</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">cd2085ca-221f-497b-bdfb-d9c75530c766</dc:identifier>
+        <dc:language>fra</dc:language>
+        <meta content="{&quot;Clive Cussler&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-04-27T15:06:04.319752+00:00" name="calibre:timestamp"/>
+        <meta content="Vent Mortel" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">17</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b489b337-6f06-4ce6-95d0-c5e10d0f74a0</dc:identifier>
+        <dc:title>Net Force - Vandales Virtuels</dc:title>
+        <dc:creator opf:file-as="Clancy, Tom" opf:role="aut">Tom Clancy</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-10-08T10:40:40+00:00</dc:date>
+        <dc:identifier opf:scheme="MOBI-ASIN">deb6a4b9-ec63-44ce-81ec-938b0109a845</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Espionnage</dc:subject>
+        <dc:subject>net force</dc:subject>
+        <meta content="{&quot;Tom Clancy&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-04-27T15:04:48.106541+00:00" name="calibre:timestamp"/>
+        <meta content="Net Force - Vandales Virtuels" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

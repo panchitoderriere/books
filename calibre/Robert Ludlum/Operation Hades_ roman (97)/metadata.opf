@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">97</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">91840865-2bb4-49c9-8f9e-50b297827761</dc:identifier>
+        <dc:title>Opération Hadès: roman</dc:title>
+        <dc:creator opf:file-as="Ludlum, Robert &amp; Lynds, Gayle" opf:role="aut">Robert Ludlum</dc:creator>
+        <dc:creator opf:file-as="Ludlum, Robert &amp; Lynds, Gayle" opf:role="aut">Gayle Lynds</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2002-05-29T01:10:34+00:00</dc:date>
+        <dc:description>SUMMARY:
+Alors qu'il assiste à une série de conférences à Londres, Jonathan Smith, médecin militaire et chercheur à l'Institut de recherche médicale pour les maladies infectieuses de l'armée américaine, apprend que sa fiancée Sophia est appelée en pleine nuit à son laboratoire : trois décès brutaux causés par un virus inconnu se sont produits à travers les États-Unis. Jon rentre et assiste, impuissant, à l'agonie de sa fiancée, victime à son tour du mystérieux virus. Malgré les conclusions des médecins, il reste persuadé qu'elle a été assassinée. Au cours de l'enquête clandestine qu'il décide de mener, Jon fera appel à d'anciens amis : Marty Zellerbach, génie de l'informatique, et Peter Howell, ancien des services spéciaux. Le Dr Jonathan Smith et son " commando de l'ombre " sont persuadés qu'un homme possède le virus et s'en sert pour déclencher une pandémie. Dans quel but ? Ils approchent peu à peu de l'insoutenable vérité...</dc:description>
+        <dc:publisher>Librairie générale française</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9782253172383</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">9d48d254-6319-4065-844c-af38c6a85599</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Detective and mystery stories</dc:subject>
+        <dc:subject>Physicians</dc:subject>
+        <dc:subject>Communicable diseases stories</dc:subject>
+        <dc:subject>Viruses</dc:subject>
+        <meta content="{&quot;Gayle Lynds&quot;: &quot;&quot;, &quot;Robert Ludlum&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-04-27T15:09:56.828493+00:00" name="calibre:timestamp"/>
+        <meta content="Opération Hadès: roman" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

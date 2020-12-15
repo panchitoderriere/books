@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">79</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">10d90173-632f-41d7-ad62-e1f469ad1b5b</dc:identifier>
+        <dc:title>La mosaïque Persifal</dc:title>
+        <dc:creator opf:file-as="Ludlum, Robert" opf:role="aut">Robert Ludlum</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-10-17T16:42:11+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;span class="Apple-style-span" style="color: rgb(72, 72, 72); font-family: Arial, Helvetica, sans-serif; font-size: 14px; line-height: 19px; background-color: rgb(233, 233, 233); "&gt;Par une nuit noire sur une plage déserte en Espagne, Michael Havelock, un des meilleurs agents au service des États-Unis, assiste, bouleversé, à l'exécution de la femme qu'il aime, Jenna Karras, accusée d'être un agent double, membre de l'effroyable Voennaya Kontra Rozvedka, branche sauvage du K.G.B. soviétique qui partout faisait éclore le terrorisme. Il le fallait… Son amour était un tueur.&lt;/span&gt;&lt;span class="Apple-style-span" style="color: rgb(72, 72, 72); font-family: Arial, Helvetica, sans-serif; font-size: 14px; line-height: 19px; background-color: rgb(233, 233, 233); "&gt;&lt;br&gt;&lt;/span&gt;&lt;span class="Apple-style-span" style="color: rgb(72, 72, 72); font-family: Arial, Helvetica, sans-serif; font-size: 14px; line-height: 19px; background-color: rgb(233, 233, 233); "&gt;Après le drame, Michael, brisé, démissionne et voyage. Mais, sur le quai de la gare d'Ostie à Rome, il aperçoit Jenna. Bien vivante ! et qui s'enfuit…&lt;/span&gt;&lt;span class="Apple-style-span" style="color: rgb(72, 72, 72); font-family: Arial, Helvetica, sans-serif; font-size: 14px; line-height: 19px; background-color: rgb(233, 233, 233); "&gt;&lt;br&gt;&lt;/span&gt;&lt;span class="Apple-style-span" style="color: rgb(72, 72, 72); font-family: Arial, Helvetica, sans-serif; font-size: 14px; line-height: 19px; background-color: rgb(233, 233, 233); "&gt;Son enquête et sa course folle pour la retrouver vont alors faire plonger Michael corps et âme dans l'affaire la plus dangereuse de sa carrière.&lt;/span&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Le Livre de Poche</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">f029f962-2038-4ae1-8b49-53aa128cf426</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Espionnage</dc:subject>
+        <meta content="{&quot;Robert Ludlum&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-04-27T15:07:48.632950+00:00" name="calibre:timestamp"/>
+        <meta content="La mosaïque Persifal" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

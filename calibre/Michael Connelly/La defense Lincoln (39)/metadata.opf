@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">39</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fdf4622b-9c1e-4f46-a1ed-37a6078c141b</dc:identifier>
+        <dc:title>La défense Lincoln</dc:title>
+        <dc:creator opf:file-as="Connelly, Michael" opf:role="aut">Michael Connelly</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-04-15T19:54:57+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;Avocat des chauffards, bikers et autres dealers, Mickey Haller est habile au prétoire, mais méprisé par tout le barreau de Californie. Séparé d'une première femme au service du district attorney (donc de l'accusation) et d'une deuxième qui, elle, travaille pour lui, il passe sa vie dans sa Lincoln à chercher la petite affaire qui lui permettra de tenir jusqu'au lendemain. Miracle, un jour, il décroche le gros lot : accusé d'avoir défiguré une femme, Louis Roulet, un riche fils de famille de Beverly Hills, veut qu'il assure sa défense. Très excité à l'idée des honoraires qu'il va toucher, Mickey Haller découvre qu'en plus il pourrait avoir à défendre un innocent. Malheureusement, l'innocence de ce client a un prix. Haller s'aperçoit vite que ce " cadeau " est pur poison et qu'il pourrait lui coûter la vie.&lt;/p&gt;</dc:description>
+        <dc:publisher>Seuil</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">925f93e3-4acf-4bde-85bf-bd3f8e7eb678</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Policier</dc:subject>
+        <meta content="{&quot;Michael Connelly&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-04-27T15:05:40.212729+00:00" name="calibre:timestamp"/>
+        <meta content="La défense Lincoln" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

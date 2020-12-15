@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">106</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3e3b6513-0338-4528-be63-141f8e392680</dc:identifier>
+        <dc:title>FESTIVAL</dc:title>
+        <dc:creator opf:file-as="Лавкрафт, Говард Филлипс" opf:role="aut">Говард Филлипс Лавкрафт</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="MOBI-ASIN">fbd-uw87n8i5-d3hn-95ub-8bmr-k0rh9ph0ewvd</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>poetry</dc:subject>
+        <meta content="{&quot;Говард Филлипс Лавкрафт&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-04-27T15:10:20.894059+00:00" name="calibre:timestamp"/>
+        <meta content="FESTIVAL" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

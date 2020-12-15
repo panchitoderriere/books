@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">31</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">72d2eea9-80dd-4854-90cf-d4971c5b9a99</dc:identifier>
+        <dc:title>A la poursuite d'Octobre Rouge</dc:title>
+        <dc:creator opf:file-as="Clancy, Tom" opf:role="aut">Tom Clancy</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1983-12-31T23:00:00+00:00</dc:date>
+        <dc:description>A la poursuite d'Octobre rouge ou la découverte du thriller technologique : l'histoire de la désertion d'Octobre rouge, sous-marin soviétique 
+ultra-sophistiqué, traqué par la flotte soviétique et poursuivi par l'armada américaine, est en France une révélation de l'univers Clancy, de ses 
+remarquables connaissances techniques et militaires, de son sens du détail vrai, de la puissance de ses intrigues : un genre unique est né.</dc:description>
+        <dc:publisher>AlexandriZ</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">cf8f494a-2052-48ab-83e0-46182dc1a706</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>Techno-Thriller</dc:subject>
+        <meta content="{&quot;Tom Clancy&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-04-27T15:05:20.144569+00:00" name="calibre:timestamp"/>
+        <meta content="la poursuite d'Octobre Rouge, A" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

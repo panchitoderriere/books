@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">53</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c8de5f5a-a10f-4099-bca4-c2a19fd49c6a</dc:identifier>
+        <dc:title>Panique à la Maison-Blanche</dc:title>
+        <dc:creator opf:file-as="Cussler, Clive" opf:role="aut">Clive Cussler</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-06-30T22:00:00+00:00</dc:date>
+        <dc:description>Golfe de Cook, Alaska. Le Catawba, un garde-côte, fonce sur les eaux.
+Un S.O.S. vient d'être reçu... Le bateau émergea du rideau de pluie. Les ponts étaient déserts et les appels du Catawba restaient sans réponse. Deux officiers furent désignés pour monter à bord... Tous étaient morts, même le chat. Un autre appel désespéré arrive alors du pilote d'un avion livrant du matériel à une équipe de scientifiques sur l'île Augustine située à 30 milles au nord-est de la position du Catawba : "Savants tous morts, sauvez-moi".
+
+Ainsi commence pour Dirk Pitt, le très séduisant agent secret américain, héros de l'Incroyable Secret , l'affaire la plus difficile de toute sa carrière ; une infernale, effroyable machination dont dépend la liberté du monde. De Washington au Kremlin, de l'Alaska aux Caraïbes, Dirk Pitt nous entraîne, sur - et sous - les océans , dans une course implacable.</dc:description>
+        <dc:identifier opf:scheme="ISBN">2253039411</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">038ef86f-d6e3-4978-a1fe-074be91fe60c</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>Aventure</dc:subject>
+        <meta content="{&quot;Clive Cussler&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-04-27T15:06:14.329598+00:00" name="calibre:timestamp"/>
+        <meta content="Panique à la Maison-Blanche" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

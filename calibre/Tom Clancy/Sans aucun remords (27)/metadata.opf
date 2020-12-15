@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">27</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">483647d0-27c9-471c-a1e9-7823b4f9b2fa</dc:identifier>
+        <dc:title>Sans aucun remords</dc:title>
+        <dc:creator opf:file-as="Clancy, Tom" opf:role="aut">Tom Clancy</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1993-01-03T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;div style="text-align: justify;"&gt;John Kelly, l'as des commandos de plongeurs de la guerre de Vietnam, a voulu décrocher, mais la violence le poursuit. Pam, la jeune fille qu'il tentait de soustraire à la drogue, a été sauvagement assassinée par un réseau de dealers. Et presque dans le même temps, le Pentagone lui demande de récupérer des pilotes américains toujours détenus dans un camp nord vietnamien.&lt;/div&gt;&lt;div style="text-align: justify;"&gt;&lt;br&gt;&lt;/div&gt;&lt;div style="text-align: justify;"&gt;Deux affaires moins distinctes que ne le pense Kelly, qui devra apprendre à reconnaître ses ennemis avant d'agir... sans aucun remords.&lt;/div&gt;&lt;div style="text-align: justify;"&gt;&lt;br&gt;&lt;/div&gt;&lt;div style="text-align: justify;"&gt;L'auteur d'Octobre rouge et de Danger immédiat - sans doute le seul romancier que la Maison-Blanche et le Kremlin aient soupçonné d'avoir découvert des secrets d'Etat... - nous entraîne une fois de plus dans une aventure hallucinante de réalité, où les séquelles de la guerre, le marché de la drogue et de ses ravages, les rouages les plus secrets du pouvoir sont impitoyablement démontés. &lt;/div&gt;&lt;div style="text-align: justify;"&gt;&lt;br&gt;&lt;/div&gt;&lt;div style="text-align: justify;"&gt;&lt;a href="http://www.amazon.fr/Sans-aucun-remords-T-Clancy/dp/2253076821"&gt;http://www.amazon.fr/Sans-aucun-remords-T-Clancy/dp/2253076821&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>AlexandriZ</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9782253076827</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">f4d0b9e4-f4e2-4547-86c8-cebed36b3cdb</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>Techno-Thriller</dc:subject>
+        <meta content="{&quot;Tom Clancy&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-04-27T15:05:10.132703+00:00" name="calibre:timestamp"/>
+        <meta content="Sans aucun remords" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

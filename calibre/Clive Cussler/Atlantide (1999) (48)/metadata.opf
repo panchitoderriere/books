@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">48</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">12b17a88-e3d8-44c4-b37e-be586227db19</dc:identifier>
+        <dc:title>Atlantide (1999)</dc:title>
+        <dc:creator opf:file-as="Cussler, Clive" opf:role="aut">Clive Cussler</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;div style="text-align: justify;"&gt;Dirk Pitt plonge aujourd'hui plus profond que jamais sur les traces de la légendaire civilisation disparue : l'Atlantide. &lt;/div&gt;&lt;div style="text-align: justify;"&gt;Septembre 1858 : l'équipage d'un baleinier pris dans les glaces antarctiques découvre l'épave d'un navire et son équipage pétrifié depuis quatre-vingts ans par le froid. Dans ses soutes, des caisses renfermant de curieuses antiquités et un crâne noir, sculpté dans l'obsidienne. &lt;/div&gt;&lt;div style="text-align: justify;"&gt;Mars 2000 : un mineur découvre avec stupéfaction, entre d'anciennes galeries creusées dans une montagne du Colorado, une crypte ancienne, couverte d'étranges inscriptions. Alors que des scientifiques l'explorent, une explosion provoque un éboulement, scellant tragiquement le destin des chercheurs. &lt;/div&gt;&lt;div style="text-align: justify;"&gt;Avril 2000 : un navire d'investigations, à bord duquel se trouvent Dirk Pitt et des membres de l'Agence nationale marine et sous-marine, est attaqué par un vaisseau disparu cinquante-six ans plus tôt, un U-boat de l'armée allemande... &lt;/div&gt;&lt;div style="text-align: justify;"&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;</dc:description>
+        <dc:identifier opf:scheme="MOBI-ASIN">8dfe9676-7693-4fa0-be92-b77ff772d09d</dc:identifier>
+        <dc:language>fra</dc:language>
+        <meta content="{&quot;Clive Cussler&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-04-27T15:06:02.308092+00:00" name="calibre:timestamp"/>
+        <meta content="Atlantide (1999)" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

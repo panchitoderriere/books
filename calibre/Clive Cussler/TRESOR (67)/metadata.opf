@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">67</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">88e94589-f5e7-414a-9256-8efc32a70c47</dc:identifier>
+        <dc:title>TRÉSOR</dc:title>
+        <dc:creator opf:file-as="Cussler, Clive" opf:role="aut">Clive Cussler</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-04-03T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div style="text-align: justify;"&gt;&lt;span class="Apple-style-span" style="color: rgb(102, 102, 102); font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 11px; "&gt;Comme dans beaucoup de ses romans, Clive Cussler nous entraîne sur la piste d'un trésor perdu, et quel trésor, puisqu'il ne s'agit rien de moins que la Grand Bibliothèque d'Alexandrie et de ses trésors inestimables. On se laisse entraîner à la suite des héros dans leur quête, on retient son souffle face à l'adversité, et on accélère sa lecture pour connaître enfin le dénouement de cette histoire passionnante. Un très bon Cussler, assurément.&lt;/span&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Grasset</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">225305612X</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">fd8f4d7c-8681-42d0-a64f-b9001af9f5a9</dc:identifier>
+        <dc:language>fra</dc:language>
+        <meta content="{&quot;Clive Cussler&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-04-27T15:06:58.450689+00:00" name="calibre:timestamp"/>
+        <meta content="TRÉSOR" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

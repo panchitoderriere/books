@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">72</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">99bc8fcb-12de-4c3e-854e-4e83e9e7a440</dc:identifier>
+        <dc:title>Les montagnes hallucinées</dc:title>
+        <dc:creator opf:file-as="Lovecraft, H.P." opf:role="aut">H.P. Lovecraft</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1936-08-14T22:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;SUMMARY:&lt;br&gt;Outre-monts, outre-tombes ! De mémoire d'homme, jamais on ne vit paysages plus hallucinants ! Labyrinthes grouillants de murs, de tours, de minarets fabuleux qui surgissent de vapeurs glacées. Une expédition au pied du volcan Erebus dans l'Antarctique met au jour ce site maléfique. Mais Lake, qui l'a organisé disparaît avec toute son équipe... Images d'un autre monde ! Elles obsèdent aussi Nathaniel Peaslee jusque dans ses rêves. Lui, situe les ruines près du tropique du Capricorne. Une monstrueuse cité de pierre noire dont les fondements descendent au centre de la Terre... Les deux hommes ne se connaissent pas, ils vivent à des époques différentes. Tous deux pourtant sont hantés par ces êtres qui ont vécu à l'époque des dinosaures et se déchaînent de temps à autre. Maître des vents furieux et des musiques démoniaques. Prédateurs ? Esprits migrants ? Créatures effroyables ? Des Anciens qu'il ne fait pas bon rencontrer...&lt;/p&gt;</dc:description>
+        <dc:publisher>J'ai Lu</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9782290043264</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">cd5261ec-2a03-11e0-af18-001cc0a62c0b</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>Science-Fiction</dc:subject>
+        <meta content="{&quot;H.P. Lovecraft&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-04-27T15:07:22.544984+00:00" name="calibre:timestamp"/>
+        <meta content="Les montagnes hallucinées" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

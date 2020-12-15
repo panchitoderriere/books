@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">78</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d4ea7ca8-e156-4150-9b83-19961292562e</dc:identifier>
+        <dc:title>La voie de la non-violence</dc:title>
+        <dc:creator opf:file-as="Gandhi" opf:role="aut">Gandhi</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-03-24T08:36:00+00:00</dc:date>
+        <dc:description>receuil de textes de gandhi</dc:description>
+        <dc:identifier opf:scheme="MOBI-ASIN">5d07fb18-3f13-4f0b-8055-86550c0e5bce</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Gandhi&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-04-27T15:07:46.606546+00:00" name="calibre:timestamp"/>
+        <meta content="La voie de la non-violence" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

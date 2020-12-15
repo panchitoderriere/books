@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">44</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">84599d46-0b9d-486b-98cb-b0a99eb1a39a</dc:identifier>
+        <dc:title>Mort ou vif - tome 2</dc:title>
+        <dc:creator opf:file-as="Clancy, Tom" opf:role="aut">Tom Clancy</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-08-14T22:00:00+00:00</dc:date>
+        <dc:publisher>Albin Michel</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">fdc485de-b877-4f6e-b2c2-9c4c25bda877</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>littérature</dc:subject>
+        <meta content="{&quot;Tom Clancy&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-04-27T15:05:52.306639+00:00" name="calibre:timestamp"/>
+        <meta content="Mort ou vif - tome 2" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

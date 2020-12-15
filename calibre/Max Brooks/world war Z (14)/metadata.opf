@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">14</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d977aa6b-2afe-4add-8f8a-56e011a186a5</dc:identifier>
+        <dc:title>world war Z</dc:title>
+        <dc:creator opf:file-as="Brooks, Max" opf:role="aut">Max Brooks</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-07-28T04:44:52+00:00</dc:date>
+        <dc:publisher>Le Livre de Poche</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">2619c3a6-3515-4025-806d-4268a3110fb9</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>zombie</dc:subject>
+        <meta content="{&quot;Max Brooks&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-04-27T15:04:42.066525+00:00" name="calibre:timestamp"/>
+        <meta content="world war Z" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

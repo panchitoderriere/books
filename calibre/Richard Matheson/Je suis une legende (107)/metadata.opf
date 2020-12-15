@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">107</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4d320c3e-d12d-460e-824c-5521179053cc</dc:identifier>
+        <dc:title>Je suis une légende</dc:title>
+        <dc:creator opf:file-as="Matheson, Richard" opf:role="aut">Richard Matheson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1956-12-31T23:00:00+00:00</dc:date>
+        <dc:publisher>AlexandriZ</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">ec912776-f581-45c4-b375-581628422551</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>SF</dc:subject>
+        <meta content="{&quot;Richard Matheson&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-04-27T15:10:22.942896+00:00" name="calibre:timestamp"/>
+        <meta content="Je suis une légende" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

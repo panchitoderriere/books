@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">86</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1b6a2ca3-3ac9-43da-b3c5-01217a6b018e</dc:identifier>
+        <dc:title>Le manuscrit Chancellor</dc:title>
+        <dc:creator opf:file-as="Ludlum, Robert" opf:role="aut">Robert Ludlum</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-02-24T15:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;Washington, mai 1973.En plein Watergate, la mort de J. Edgar Hoover passe presque inaperçue. Vieillard usé et malade, le tout-puissant maître du FBI a-t-il succombé à une banale crise cardiaque, comme l'indique le communiqué officiel ? Peut-être. Mais, en même temps que lui, 3000 dossiers ont disparu. Le possesseur de ces documents peut désormais faire trembler la moitié des politiciens, des financiers et des chefs militaires américains.La mort du vieux dictateur laisse planer tant de mystères que Peter Chancellor, fauteur à succès, s'empare aussitôt de d'affaire. Il tient le sujet de son prochain roman, sans doute le plus imprévu et le plus dangereux. Rien ne l'empêchera de d'écrire, dût-il y laisser sa réputation et sa peau.&lt;/p&gt;</dc:description>
+        <dc:identifier opf:scheme="MOBI-ASIN">97fd17b7-aaf8-4df3-be11-100d2f23e258</dc:identifier>
+        <dc:language>fra</dc:language>
+        <meta content="{&quot;Robert Ludlum&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-04-27T15:09:22.761718+00:00" name="calibre:timestamp"/>
+        <meta content="Le manuscrit Chancellor" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

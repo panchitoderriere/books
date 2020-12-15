@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">65</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bdd2be0b-9f3f-4b89-b3b2-1546fe62071c</dc:identifier>
+        <dc:title>Vortex</dc:title>
+        <dc:creator opf:file-as="Cussler, Clive" opf:role="aut">Clive Cussler</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-11-02T22:04:07+00:00</dc:date>
+        <dc:description>&lt;p class="description" style="text-align: justify;"&gt;&lt;span class="Apple-style-span" style="font-family: verdana, arial, helvetica, sans-serif; font-size: small; "&gt;L'Océan pacifique porte parfois bien mal son nom. C'est ce que va découvrir à ses dépends la marine américaine : le &lt;i&gt;Starbuck&lt;/i&gt;, dernier-né des sous-marins nucléaires et fleuron de la force de frappe, disparaît en effet dans les profondeurs d'une zone connue sous le nom de Vortex, déjà coupable d'avoir englouti mystérieusement des dizaines de navires. En découvrant par le plus grand des hasards une capsule contenant un message du commandant du &lt;i&gt;Starbuck&lt;/i&gt;, l'aventurier Dirk Pitt, héros des profondeurs, va hériter de l'une des plus dangereuses missions de sa carrière : retrouver et si possible renflouer le sous-marin avant une catastrophe nucléaire. Mais Pitt n'est évidemment pas seul dans les limbes du Pacifique, où un mystérieux malfaisant fou a élu domicile avec la ferme intention de devenir quelque chose comme le maître du monde...&lt;/span&gt;&lt;/p&gt;</dc:description>
+        <dc:publisher>Warner</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">b381ba27-4174-43b2-9b5f-065c54d173ef</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>Aventure</dc:subject>
+        <meta content="{&quot;Clive Cussler&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-04-27T15:06:44.474984+00:00" name="calibre:timestamp"/>
+        <meta content="Vortex" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

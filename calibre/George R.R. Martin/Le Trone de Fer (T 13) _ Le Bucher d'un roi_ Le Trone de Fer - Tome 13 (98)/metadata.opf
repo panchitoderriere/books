@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">98</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">28669a25-8e4e-4462-ad86-437fdf098dc4</dc:identifier>
+        <dc:title>Le Trône de Fer (T 13) : Le Bûcher d’un roi: Le Trône de Fer - Tome 13</dc:title>
+        <dc:creator opf:file-as="Martin, George R.R." opf:role="aut">George R.R. Martin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-03-13T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p class="description"&gt;Le destin des Sept Royaumes est sur le point de basculer. À l’Est, Daenerys, dernière descendante de la Maison Targaryen, secondée par ses terrifiants dragons arrivés à maturité, règne sur une cité de mort et de poussière, entourée d’ennemis. Mais alors que certains voudraient la voir passer de vie à trépas, d’autres entendent rallier sa cause, tel Tyrion Lannister, le Lutin, dont la tête vaut de l’or depuis qu’il s’est rendu coupable du meurtre de son père, Tywin.&lt;br&gt;Au Nord, où se dresse l’immense Mur de glace et de pierre qui garde la frontière septentrionale des Royaumes, Jon Snow, le bâtard de feu Eddard Stark, a été élu 998e Commandant en chef de la Garde de Nuit, mais ses adversaires se dissimulent des deux côtés du Mur, y compris parmi les troupes de Stannis Baratheon qui ont élu domicile dans ces contrées glacées…&lt;/p&gt;
+&lt;p class="description"&gt;Illustration Gary Jamroz © Flammarion&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Flammarion</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">fa9fe8f1-f32b-4500-9a71-353be3656f6e</dc:identifier>
+        <dc:language>fra</dc:language>
+        <meta content="{&quot;George R.R. Martin&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-04-27T15:09:58.894083+00:00" name="calibre:timestamp"/>
+        <meta content="Le Trône de Fer (T 13) : Le Bûcher d’un roi: Le Trône de Fer - Tome 13" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

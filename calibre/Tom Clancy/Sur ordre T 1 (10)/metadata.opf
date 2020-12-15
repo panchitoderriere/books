@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">10</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2ab69913-f9ff-493b-82a4-fe71ae5560fe</dc:identifier>
+        <dc:title>Sur ordre T 1</dc:title>
+        <dc:creator opf:file-as="Clancy, Tom" opf:role="aut">Tom Clancy</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-07-01T22:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;Fous de Dieu, ils imaginent tout pour abattre le Grand Satan occidental - même le pire ! Face à ce nouveau péril venu de l'Est, l'Amérique pourra-t-elle triompher ?&lt;br&gt;Un 747 kamikaze s'écrase sur le Capitole, entraînant dans la mort le Président des États-Unis, les membres du Sénat et de la Cour suprême. Plus que jamais l'Amérique décapitée est au bord du gouffre. Plus que jamais Jack Ryan est l'homme de la situation...&lt;br&gt;Jack Ryan ! D'Octobre rouge à Dette d'honneur, tous les lecteurs de Tom Clancy connaissent ses exploits, son intégrité, sa volonté farouche de faire triompher le droit et la justice. Cette fois-ci, il doit faire mieux encore que réussir sa mission. Le sort du monde libre est entre ses mains, et les ennemis attaquent de toutes parts : de l'intérieur, où règnent la corruption et l'intoxication médiatique. Mais surtout, du Moyen-Orient où les forces islamistes, menées par un dictateur iranien, ont recours à l'arme bactériologique pour semer la terreur et imposer leur loi au monde entier.&lt;br&gt;Comment enrayer cet engrenage infernal ? Ryan ne peut plus compter que sur quelques fidèles compétents et déterminés. Maître absolu des armées, sa responsabilité est énorme : à tout moment, il peut décider de la guerre ou de la paix. Juste sur ordre.&lt;/p&gt;</dc:description>
+        <dc:identifier opf:scheme="ISBN">222609508X</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">cdfa6723-3f27-4ce7-af16-1d1c1474b327</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>Thriller</dc:subject>
+        <meta content="{&quot;Tom Clancy&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-04-27T15:04:27.999313+00:00" name="calibre:timestamp"/>
+        <meta content="Sur ordre T 1" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">37</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">edb2efcf-39eb-4e92-a7ee-16f4a2a0732e</dc:identifier>
+        <dc:title>Le poète</dc:title>
+        <dc:creator opf:file-as="Connelly, Michael" opf:role="aut">Michael Connelly</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-09-25T13:33:55+00:00</dc:date>
+        <dc:description>Le policier Sean McEvoy est retrouvé mort dans sa voiture. Chargé d'une affaire de meurtre abominable, son enquête n'avançait pas. Lorsqu'il apprend le suicide de son frère, Jack, son jumeau, journaliste de faits divers, refuse d'y croire. En cherchant à comprendre, il découvre d'autres cas de policiers apparemment poussés au suicide par des meurtres non résolus. Tous ont été retrouvés avec, à leur côté, des lettres d'adieu composées d'extraits de poèmes d'Edgar Poe. Un effrayant tableau d'ensemble commence à se dessiner. Jack fait pression sur les agents du FBI pour qu'une enquête soit ouverte sur ces suicides en série.</dc:description>
+        <dc:identifier opf:scheme="MOBI-ASIN">80525bbe-3459-4e26-9e8b-a8a26dd66388</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Policier</dc:subject>
+        <dc:subject>Jaxk McEvoy</dc:subject>
+        <meta content="{&quot;Michael Connelly&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-04-27T15:05:34.227142+00:00" name="calibre:timestamp"/>
+        <meta content="Le poète" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

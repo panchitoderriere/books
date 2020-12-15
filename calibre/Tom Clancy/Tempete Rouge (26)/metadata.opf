@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">26</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d9a71e5f-30f4-4e03-b0e7-e88429bb2fd1</dc:identifier>
+        <dc:title>Tempete Rouge</dc:title>
+        <dc:creator opf:file-as="Clancy, Tom" opf:role="aut">Tom Clancy</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-01-29T23:00:00+00:00</dc:date>
+        <dc:publisher>Albin Michel</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">5368d656-cf64-4192-aabf-072877a8fd9c</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>Techno-Thriller</dc:subject>
+        <meta content="{&quot;Tom Clancy&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-04-27T15:05:08.106544+00:00" name="calibre:timestamp"/>
+        <meta content="Tempete Rouge" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

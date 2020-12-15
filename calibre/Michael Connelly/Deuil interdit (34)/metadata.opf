@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">34</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ab5f2321-b0d2-499d-919e-71a43191bf6b</dc:identifier>
+        <dc:title>Deuil interdit</dc:title>
+        <dc:creator opf:file-as="Connelly, Michael" opf:role="aut">Michael Connelly</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-01-07T16:00:30+00:00</dc:date>
+        <dc:description>&lt;p&gt;Dans la Los Angeles de l'été 1988, une jeune fille de 16 ans, Becky 
+Verloren, est enlevée chez elle, puis retrouvée quelques jours plus 
+tard, une balle tirée en pleine poitrine. Tout fait penser à un suicide 
+et si les premiers enquêteurs ont, eux, songé à un meurtre, personne n'a
+ jamais été arrêté. Dix-huit ans plus tard, l'inspecteur Harry Bosch, 
+qui vient de réintégrer le LAPD après trois ans de retraite, reçoit les 
+résultats d'une analyse d'ADN qui remet l'affaire en selle. Et, plus 
+ennuyeux pour lui qui doit se tenir à carreau s'il ne veut pas se 
+retrouver définitivement hors course : avec ces résultats, ce sont les 
+premières menaces qui arrivent. Colère, douleur et surtout danger, 
+l'enquête prend vite des allures de cauchemar.      &lt;/p&gt;</dc:description>
+        <dc:publisher>Seuil</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">3e904e8b-302a-4c66-ab3f-3b451a7513e3</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Policier</dc:subject>
+        <meta content="{&quot;Michael Connelly&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-04-27T15:05:26.194882+00:00" name="calibre:timestamp"/>
+        <meta content="Deuil interdit" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

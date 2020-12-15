@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">134</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f9b6d3bf-31c1-46f8-a5b8-76980a4114ad</dc:identifier>
+        <dc:title>La tregua (Spanish Edition)</dc:title>
+        <dc:creator opf:file-as="Benedetti, Mario" opf:role="aut">Mario Benedetti</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.2.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-07-15T05:00:00+00:00</dc:date>
+        <dc:publisher>Penguin Random House Grupo Editorial España</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B00634J0TY</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Mario Benedetti&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-10-13T20:23:10.818330+00:00"/>
+        <meta name="calibre:title_sort" content="La tregua (Spanish Edition)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

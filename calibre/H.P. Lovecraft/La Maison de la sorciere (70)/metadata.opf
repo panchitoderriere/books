@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">70</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">542b6a40-6594-4b09-a752-f5cec63434dc</dc:identifier>
+        <dc:title>La Maison de la sorcière</dc:title>
+        <dc:creator opf:file-as="Lovecraft, H.P." opf:role="aut">H.P. Lovecraft</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-06-15T22:00:00+00:00</dc:date>
+        <dc:description>The Dreams in the Witch-House, 1932
+Paru dans Weird Tales, juillet 1933
+
+Lovecraft revisite le mythe de la mauvaise fée dans un huis clos étouffant. Le protagoniste habite dans l'ancienne demeure de la sorcière (Keziah Mason) qui se matérialise dans sa chambre chaque soir, pour l'entraîner physiquement dans un monde onirique.</dc:description>
+        <dc:publisher>Ebooks libres et gratuits</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">f21e6411-9fcb-4ff8-947d-4c247eb8f732</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>Fantastique</dc:subject>
+        <meta content="{&quot;H.P. Lovecraft&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-04-27T15:07:14.530509+00:00" name="calibre:timestamp"/>
+        <meta content="La Maison de la sorcière" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

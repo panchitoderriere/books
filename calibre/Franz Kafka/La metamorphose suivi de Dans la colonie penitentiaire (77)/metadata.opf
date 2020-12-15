@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">77</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6ef0ff73-286f-4729-9d40-f3770b906525</dc:identifier>
+        <dc:title>La métamorphose suivi de Dans la colonie pénitentiaire</dc:title>
+        <dc:creator opf:file-as="Kafka, Franz" opf:role="aut">Franz Kafka</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2003-11-15T08:39:52+00:00</dc:date>
+        <dc:description>SUMMARY:
+Dans 'La metamorphose', un homme, transformé en coléoptère monstrueux, se trouve confronté à sa famille dont l’ambition est de l’éliminer. Déjà dans 'La Colonie pénitentiaire', un inventeur à l’imagination torturée expérimente une machine sur des soldats.</dc:description>
+        <dc:publisher>EJL</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9782290335338</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">641fd709-6ccf-46d1-a289-058cf007e414</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Romance</dc:subject>
+        <meta content="{&quot;Franz Kafka&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-04-27T15:07:42.600816+00:00" name="calibre:timestamp"/>
+        <meta content="La métamorphose suivi de Dans la colonie pénitentiaire" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

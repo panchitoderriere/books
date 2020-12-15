@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">71</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ea1ec82b-9a02-4060-9782-c2d3060abd47</dc:identifier>
+        <dc:title>Le Cauchemar d’Innsmouth</dc:title>
+        <dc:creator opf:file-as="Lovecraft, H.P." opf:role="aut">H.P. Lovecraft</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-06-15T22:00:00+00:00</dc:date>
+        <dc:description>The Shadow over Innsmouth, 1931 Lovecraft nous narre les aventures d'un jeune homme qui, en visitant la ténébreuse Innsmouth, se rend compte que la ville possède un terrible secret qu'il va tenter de percer à ses risques et périls. Cette nouvelle rend compte à merveille de l'atmosphère oppressante de la ville, l'horreur est tapie partout, même là où on ne l'attend pas. De beaux moments de frayeurs en perspective.</dc:description>
+        <dc:publisher>Ebooks libres et gratuits</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">8d160510-efb4-46b1-91d6-f0dd9e4a48ec</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>Fantastique</dc:subject>
+        <meta content="{&quot;H.P. Lovecraft&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-04-27T15:07:18.537557+00:00" name="calibre:timestamp"/>
+        <meta content="Le Cauchemar d’Innsmouth" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

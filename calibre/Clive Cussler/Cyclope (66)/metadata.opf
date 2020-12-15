@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">66</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3ec7addc-4104-4b10-8265-c1bb0d77f0af</dc:identifier>
+        <dc:title>Cyclope</dc:title>
+        <dc:creator opf:file-as="Cussler, Clive" opf:role="aut">Clive Cussler</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1988-03-14T23:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description" style="text-align: justify;"&gt;&lt;span class="Apple-style-span" style="font-family: verdana, arial, helvetica, sans-serif; font-size: small; "&gt;Cyclope, c'est la nouvelle aventure de Dirk Pitt, l'agent secret aux yeux verts... Comme d'habitude, tout y débute par hasard, quand Dirk découvre des cadavres dans un antique dirigeable. D'où viennent-ils ? C'est une longue histoire... En vérité, Dirk lui-même ignore que son enquête va le conduire vers un secret lourd de conséquences : il existerait, sur la face cachée de la Lune, une base où Américains et Soviétiques se livrent une guerre impitoyable afin de contrôler l'espace... Dans le même temps, Dirk Pitt s'avise que le Kremlin est en train de préparer, dans une île des Caraïbes, une intervention armée à Cuba. Saura-t-il déjouer les plans de ceux qui, à l'insu du président des Etats-Unis, préparent la « guerre des étoiles » ? La réponse se trouve peut-être au fond des mers, là où gît l'épave du Cyclope, ce vieux charbonnier qui a sombré dans d'étranges circonstances, en 1918...&lt;/span&gt;&lt;/p&gt;</dc:description>
+        <dc:publisher>LGF - Livre de Poche</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9782253046752</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">cb762134-5d87-4dbf-8e78-c9d6d335fdff</dc:identifier>
+        <dc:language>fra</dc:language>
+        <meta content="{&quot;Clive Cussler&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-04-27T15:06:48.469622+00:00" name="calibre:timestamp"/>
+        <meta content="Cyclope" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

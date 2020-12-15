@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">11</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0968ab70-fbe6-4c44-aa00-214c24fefec2</dc:identifier>
+        <dc:title>L'Ours et le Dragon Coffret 2 volumes</dc:title>
+        <dc:creator opf:file-as="Clancy, Tom" opf:role="aut">Tom Clancy</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2001-10-17T04:26:33+00:00</dc:date>
+        <dc:publisher>Albin Michel</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9782226127860</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">ea3159a4-2e8b-4ead-a80c-94d79e7e4c8c</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Tom Clancy&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-04-27T15:04:30.056744+00:00" name="calibre:timestamp"/>
+        <meta content="L'Ours et le Dragon Coffret 2 volumes" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

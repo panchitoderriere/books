@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">59</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">343feeed-de5a-4f70-aed9-2d7bbacd38c5</dc:identifier>
+        <dc:title>Onde De Choc</dc:title>
+        <dc:creator opf:file-as="Cussler, Clive" opf:role="aut">Clive Cussler</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1999-01-31T23:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description" style="text-align: justify;"&gt;En 1859, deux forçats rescapés d'un naufrage, Betsy Fletcher et Jess Dorsett, découvrent sur une île déserte une immense mine de diamants. Ils fondent une dynastie puissante et riche. Cent quarante ans plus tard, une de leurs descendantes, Maeve Dorsett, dont le père, Arthur, est un des plus gros diamantaires du monde, est abandonnée avec un groupe de touristes, dans des conditions mystérieuses, sur une île désolée de l'Antarctique. Dirk Pitt, l'explorateur bien connu des lecteurs de Clive Cussler, parvient à les sauver alors qu'il enquête sur les causes inexpliquées d'une épidémie qui ravage la faune. Il découvrira bientôt l'existence d'une nouvelle technique d'extraction minière : l'onde de choc, ou convergence acoustique. Une méthode efficace, meurtrière pour la vie environnante, que le père de Maeve Dorsett n'a pourtant aucun scrupule à utiliser. Et même à grande échelle... Un superbe roman d'aventures, dans le cadre magnifique de l'Antarctique et des mers du Sud, par l'auteur de Cyclope et de L'Or des Incas.&lt;/p&gt;</dc:description>
+        <dc:publisher>LGF - Livre de Poche</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9782253170624</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">a4ba9267-2036-421c-89a5-988e4ea19781</dc:identifier>
+        <dc:language>fra</dc:language>
+        <meta content="{&quot;Clive Cussler&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-04-27T15:06:30.436709+00:00" name="calibre:timestamp"/>
+        <meta content="Onde De Choc" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

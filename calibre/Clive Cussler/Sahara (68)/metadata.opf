@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">68</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5bfc6433-1fc7-4fec-b844-442c30463a99</dc:identifier>
+        <dc:title>Sahara</dc:title>
+        <dc:creator opf:file-as="Cussler, Clive" opf:role="aut">Clive Cussler</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1994-05-14T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div style="text-align: justify;"&gt;&lt;span class="Apple-style-span" style="font-size: small; font-family: verdana, arial, helvetica, sans-serif; "&gt;D'où vient la terrible marée rouge surgie dans le delta du Niger, et grosse de menaces pour l'écologie mondiale ? Quel rapport entre cette catastrophe et la disparition en - 1930, en plein Sahara, de l'aviatrice Kitty Manock ? Ou celle d'un bateau américain, évanoui dans la brume soixante-dix ans plus tôt ? Parti à la recherche de la barque funéraire d'un pharaon, le chasseur de trésors Dirk Pitt, bien connu des innombrables lecteurs de Panique à la Maison-Blanche et de Cyclope, va être entraîné, en compagnie de la douce Eva, dans la plus étrange et la plus dangereuse de ses aventures. Un thriller écologique où mystère, humour et suspense composent le plus excitant des cocktails.&lt;/span&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>LGF - Livre de Poche</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780007776214</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">f6101e8d-4c14-4f03-9dcb-e91f2d483990</dc:identifier>
+        <dc:language>fra</dc:language>
+        <meta content="{&quot;Clive Cussler&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-04-27T15:07:04.510081+00:00" name="calibre:timestamp"/>
+        <meta content="Sahara" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">88</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a4eb89c4-c625-49cf-aa2f-8db0cce7374d</dc:identifier>
+        <dc:title>L'Affaire Charles Dexter Ward</dc:title>
+        <dc:creator opf:file-as="Lovecraft, H.P." opf:role="aut">H.P. Lovecraft</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1928-08-14T22:00:00+00:00</dc:date>
+        <dc:description>Providence, États-Unis, 1918. Charles Dexter Ward est un jeune homme passionné d'archéologie, d'histoire, et de généalogie. C'est par le biais de cette dernière que Ward se découvre un ancêtre nommé Joseph Curwen, qui avait fui la ville de Salem lors de la grande chasse aux sorciers au cours du XVIIIe siècle, et qui vint s'établir à Providence, où il décéda en 1771. Cette découverte sera le début d'un drame au cours duquel le jeune homme perdra l'esprit.</dc:description>
+        <dc:publisher>Feedbooks</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">fc8d65da-32bc-11e0-832c-001cc0a62c0b</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Science Fiction</dc:subject>
+        <dc:subject>Nouvelles</dc:subject>
+        <dc:subject>Horreur</dc:subject>
+        <meta content="{&quot;H.P. Lovecraft&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-04-27T15:09:26.792635+00:00" name="calibre:timestamp"/>
+        <meta content="L'Affaire Charles Dexter Ward" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

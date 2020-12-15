@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">82</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">04fabbcd-0e17-4712-835c-bbf60057fad2</dc:identifier>
+        <dc:title>Le cercle bleu des Matarèse</dc:title>
+        <dc:creator opf:file-as="Ludlum, Robert" opf:role="aut">Robert Ludlum</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="MOBI-ASIN">ca272775-4e85-478e-a6f8-884e9fd89eb3</dc:identifier>
+        <dc:language>fra</dc:language>
+        <meta content="{&quot;Robert Ludlum&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-04-27T15:07:58.652630+00:00" name="calibre:timestamp"/>
+        <meta content="Le cercle bleu des Matarèse" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

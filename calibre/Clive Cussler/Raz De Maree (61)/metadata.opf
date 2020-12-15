@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">61</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d7eb8056-f7d9-40fe-a1d7-da649377392d</dc:identifier>
+        <dc:title>Raz De Marée</dc:title>
+        <dc:creator opf:file-as="Cussler, Clive" opf:role="aut">Clive Cussler</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2001-04-02T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p class="description"&gt;&lt;/p&gt;&lt;div style="text-align: justify;"&gt;Des dizaines de cadavres, lestés de fer, au fond d'un lac près de Seattle. Des cadavres de Chinois, exclusivement. Telle est la macabre découverte que fait Dirk Pitt, au cours d'une des plongées les plus périlleuses de sa vie. Qui a pu délibérément ordonner la noyade de ces malheureux ? Que se trame-t-il dans la vaste résidence qu'un homme d'affaires chinois, Qin Shang, gros pourvoyeur de fonds pour des campagnes électorales, a fait bâtir près de ce lac ? Le héros de L'Or des Incas et d'Onde de choc s'attaque ici à un des trafics les plus monstrueux et les plus lucratifs qu'aient imaginés les mafias modernes : le trafic d'êtres humains. Un domaine où les intérêts financiers et politiques sont tels que la vie ne compte plus.&lt;/div&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Librairie générale française</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9782253171799</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">a7eb1bf0-d10c-4041-8166-816122768b65</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>Pitt</dc:subject>
+        <dc:subject>Dirk (Fictitious character)</dc:subject>
+        <meta content="{&quot;Clive Cussler&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-04-27T15:06:34.390919+00:00" name="calibre:timestamp"/>
+        <meta content="Raz De Marée" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

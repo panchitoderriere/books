@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">dc78f845-dd8c-4c07-985e-32117776ce27</dc:identifier>
+        <dc:title>Danger Immédiat</dc:title>
+        <dc:creator opf:file-as="Clancy, Tom" opf:role="aut">Tom Clancy</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-07-30T09:43:43+00:00</dc:date>
+        <dc:description>Après l'assassinat d'un ses amis proches, impliqué dans un réseau de blanchiment d'argent, le Président des Etats-Unis décide de mener un combat contre les cartels colombiens. Il envoie en secret un commando de douze hommes en Colombie dont les deux responsables, James Cutter, conseiller du Président, et Robert Ritter de la CIA, cachent la mission au directeur des renseignements, Jack Ryan. Lorsque Ryan découvre le pot aux roses, il n'aura de cesse que de dénoncer la corruption au plus haut sommet de l'Etat... à ses risques et périls.</dc:description>
+        <dc:publisher>Albin Michel</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">08db4558-3d07-4e59-a152-66c880a4ad44</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Espionnage</dc:subject>
+        <dc:subject>Jack Ryan</dc:subject>
+        <meta content="{&quot;Tom Clancy&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-04-27T15:04:17.956942+00:00" name="calibre:timestamp"/>
+        <meta content="Danger Immédiat" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

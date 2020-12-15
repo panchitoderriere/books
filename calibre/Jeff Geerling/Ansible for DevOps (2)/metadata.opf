@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5563d9e4-b87a-4cbd-9d1b-aab9e59d482f</dc:identifier>
+        <dc:title>Ansible for DevOps</dc:title>
+        <dc:creator opf:file-as="Geerling, Jeff" opf:role="aut">Jeff Geerling</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-02-20T06:00:00+00:00</dc:date>
+        <dc:publisher>leanpub.com</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Jeff Geerling&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-03-21T01:09:15.040270+00:00" name="calibre:timestamp"/>
+        <meta content="Ansible for DevOps" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

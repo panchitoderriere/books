@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">96</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">35de054c-e5c9-40ae-a999-17b91afe365b</dc:identifier>
+        <dc:title>Objectif Paris</dc:title>
+        <dc:creator opf:file-as="Ludlum, Robert &amp; Lynds, Gayle" opf:role="aut">Robert Ludlum</dc:creator>
+        <dc:creator opf:file-as="Ludlum, Robert &amp; Lynds, Gayle" opf:role="aut">Gayle Lynds</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-12-14T21:00:00+00:00</dc:date>
+        <dc:description>A Paris, au cœur de la nuit, l'Institut Pasteur est ravagé par un attentat d'une violence inouïe. Les secours sortent des décombres quelques survivants et de nombreux cadavres, mais ne parviennent pas à localiser le corps d'Emile Chambord, un éminent chercheur présent sur les lieux au moment de l'explosion. Celui-ci mettait la touche finale à un projet futuriste : la création d'un superordinateur piloté par ADN, c'est-à-dire combinant la technologie informatique et le génie de l'humain. Jon Smith, agent du très secret Réseau Bouclier, participant à des recherches similaires, arrive à Paris juste à temps pour empêcher une tentative d'assassinat visant Marty Zellerbach, l'informaticien de génie qui secondait Chambord. Désormais, le doute n'est plus permis : quelqu'un en veut à l'ordinateur piloté par ADN et à ses inventeurs, et la Maison-Blanche est sur le pied de guerre. Avec ses vieux amis Peter Howell et Randy Russell, Jon Smith dispose de peu de temps : d'un instant à l'autre, le monde entier peut basculer dans le chaos...</dc:description>
+        <dc:publisher>B. Grasset</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9782253116486</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">c2b53571-b6c9-4889-b117-e8497de5a4e8</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>Espionnage</dc:subject>
+        <meta content="{&quot;Gayle Lynds&quot;: &quot;&quot;, &quot;Robert Ludlum&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-04-27T15:09:52.873795+00:00" name="calibre:timestamp"/>
+        <meta content="Objectif Paris" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

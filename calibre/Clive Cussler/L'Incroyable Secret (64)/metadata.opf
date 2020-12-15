@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">64</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ebfc52d9-f272-4e5e-9ad6-6bda53a84175</dc:identifier>
+        <dc:title>L'Incroyable Secret</dc:title>
+        <dc:creator opf:file-as="Cussler, Clive" opf:role="aut">Clive Cussler</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1983-05-03T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;h3&gt;&lt;div style="text-align: justify;"&gt;&lt;span class="Apple-style-span" style="font-weight: normal; font-size: 12px; border-collapse: collapse; color: rgb(76, 76, 76); font-family: Verdana, Arial, Helvetica, sans-serif; line-height: 21px; "&gt;Mission : retrouver coûte que coûte un document qui vaut de l'or mais pourrait déclencher une guerre.&lt;/span&gt;&lt;/div&gt;&lt;span class="Apple-style-span" style="border-collapse: collapse; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-weight: normal; color: rgb(76, 76, 76); line-height: 21px; "&gt;&lt;div style="text-align: justify;"&gt;Deux des meilleurs agents secrets du monde, Dirk Pitt, l'Américain, et Brian Shaw, l'Anglais, s'affrontent dans une course folle pour mettre, le premier, la main sur cet incroyable secret disparu depuis soixante-quinze ans mais que la belle Heidi Milligan, brillant officier de la marine américaine, a découvert accidentellement.&lt;/div&gt;&lt;/span&gt;&lt;/h3&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Grasset</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9782246282716</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">8aac8ac8-d39b-47ec-b6fa-602d73fa26a7</dc:identifier>
+        <dc:language>fra</dc:language>
+        <meta content="{&quot;Clive Cussler&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-04-27T15:06:42.415265+00:00" name="calibre:timestamp"/>
+        <meta content="L'Incroyable Secret" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">52</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a7df21f5-f1cd-410f-a778-7b65bd7611ac</dc:identifier>
+        <dc:title>Vixen 03</dc:title>
+        <dc:creator opf:file-as="Cussler, Clive" opf:role="aut">Clive Cussler</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2000-11-27T23:00:00+00:00</dc:date>
+        <dc:description>Vixen 03 : c'est le nom d'un gros Boeing de l'armée américaine, disparu en janvier 1954 au cours d'une mission vers le Pacifique.
+A son bord, des barils en acier inoxydable. Leur contenu ? Secret militaire. Une trentaine d'années plus tard, Dirk Pitt, le chasseur d'épaves, l'homme qui a renfloué le Titanic, localise l'appareil dans un lac du Colorado où il s'est abîmé en pleine tempête à la suite d'une avarie. Il ne tarde pas à apprendre quelle cargaison mortelle transportait le Vixen 03 : une culture de bacilles de la peste, particulièrement virulente. Mais il n'est pas le seul à détenir l'information.
+Des terroristes africains savent ce que contiennent les barils et s'emparent de deux d'entre eux. Objectif : Washington ! Et l'un des meilleurs suspenses que nous ait donné l'auteur de Cyclope et de Panique à la Maison-Blanche.</dc:description>
+        <dc:publisher>Le Livre de Poche</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">225317159X</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">6b536ead-8dd9-4dc0-9c30-643252c11bff</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>Aventures</dc:subject>
+        <dc:subject>lu</dc:subject>
+        <meta content="{&quot;Clive Cussler&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-04-27T15:06:12.334233+00:00" name="calibre:timestamp"/>
+        <meta content="Vixen 03" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

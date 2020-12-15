@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">142</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6e618e10-818c-4cd2-920b-add670038d17</dc:identifier>
+        <dc:title>La Divine Comédie - Tome III - Le Paradis (French Edition)</dc:title>
+        <dc:creator opf:file-as="Alighieri, Dante" opf:role="aut">Dante Alighieri</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.2.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-09-27T05:00:00+00:00</dc:date>
+        <dc:description>&lt;P&gt;Le&amp;nbsp;troisième et dernier&amp;nbsp;tome de l'épopée de Dante. Béatrice fait passer Dante au Paradis, qui est construit à l'inverse de l'Enfer (neuf cercles concentriques dirigés vers le haut). Ici on croise de nombreux saints. Chaque cercle correspond en fait à un ciel (ciel de la Lune, de Mercure, de Vénus, etc.) dans lequel sont logés les hommes sans péchés selon leur mérite. À la fin du parcours les apôtres du Christ interrogent Dante, qui répond justement à leurs questions, et passe au dixième ciel ou Empyrée. Là Béatrice le quitte et c'est saint Bernard de Clairvaux qui devient le dernier guide de Dante. Il adresse une prière à la Sainte Vierge et finalement Dante s'éteint complètement en Dieu, l'«Amour qui meut le ciel et les étoiles».&lt;/P&gt;</dc:description>
+        <dc:identifier opf:scheme="MOBI-ASIN">B005Q2RKEG</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>poetry</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Dante Alighieri&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-10-13T20:23:11.934654+00:00"/>
+        <meta name="calibre:title_sort" content="La Divine Comédie - Tome III - Le Paradis (French Edition)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

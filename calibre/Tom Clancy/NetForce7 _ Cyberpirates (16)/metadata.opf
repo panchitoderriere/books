@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">16</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9eb6e6c0-d3eb-485b-957a-9c56fe4d5989</dc:identifier>
+        <dc:title>NetForce7 _ Cyberpirates</dc:title>
+        <dc:creator opf:file-as="Clancy, Tom" opf:role="aut">Tom Clancy</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-11-08T12:35:31+00:00</dc:date>
+        <dc:identifier opf:scheme="MOBI-ASIN">1d505441-3b2a-4b74-ae82-d4b1e764dd5c</dc:identifier>
+        <dc:language>fra</dc:language>
+        <meta content="{&quot;Tom Clancy&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-04-27T15:04:46.076020+00:00" name="calibre:timestamp"/>
+        <meta content="NetForce7 _ Cyberpirates" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

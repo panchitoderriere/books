@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">87</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f3f509c5-7269-445f-9464-6427ebf6d2e6</dc:identifier>
+        <dc:title>Dans l'Abîme du Temps</dc:title>
+        <dc:creator opf:file-as="Lovecraft, H.P." opf:role="aut">H.P. Lovecraft</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1934-08-14T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p class="description"&gt;L'humanité est aux prises avec des êtres surnaturels qui ont été les maîtres de la Terre bien avant l'apparition de l'homme et qui tentent de recouvrer leur suprématie.&lt;/p&gt;
+&lt;h3&gt;From Publishers Weekly&lt;/h3&gt;&lt;p&gt;Lovecraftians will hail the publication of H.P. Lovecraft's The Shadow Out of Time, edited by S.T. Joshi and David E. Schultz. Based on the handwritten manuscript that surfaced in 1995 after being lost for 60 years, this edition of Lovecraft's classic tale of time travel and mind transference restores the text as closely as scholarly possible to HPL's original. The editors provide a thorough introduction, annotations and textual notes. &lt;br&gt;Copyright 2001 Reed Business Information, Inc. &lt;/p&gt;&lt;h3&gt;Product Description&lt;/h3&gt;&lt;p&gt;“The Shadow out of Time” is H. P. Lovecraft’s last major story, written in a four-month period from November 1934 to February 1935. It was first published in Astounding Stories for June 1936. And yet, this text has never been published as Lovecraft wrote it -- until now. &lt;/p&gt;&lt;p&gt;The recent discovery of Lovecraft’s handwritten manuscript allows readers to appreciate this magnificently cosmic story exactly as originally written. All previous editions of the story contain hundreds of serious errors, including errors in paragraphing, omissions and mistranscriptions of many words and passages, and erroneous punctuation. But now, the breathtaking scope of this novella -- the story of the Great Race’s conquest of time and space by means of mind-projection, and the hapless fate of Professor Nathaniel Wingate Peaslee as a victim of the Great Race’s quest for all the secrets of the universe -- can, for the first time, be fully understood. &lt;/p&gt;&lt;p&gt;Leading Lovecraft scholars S. T. Joshi and David E. Schultz have provided an exhaustive introduction and commentary on the story, elucidating names, places and other elements in this richly evocative story. &lt;/p&gt;&lt;p&gt;A must for all devotees of Lovecraft and weird fiction! &lt;/p&gt;
+
+&lt;/div&gt;</dc:description>
+        <dc:publisher>denöel</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9782207300053</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">22fce282-331b-11e0-a8b5-001cc0a62c0b</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>Science-Fiction</dc:subject>
+        <meta content="{&quot;H.P. Lovecraft&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-04-27T15:09:24.743722+00:00" name="calibre:timestamp"/>
+        <meta content="Dans l'Abîme du Temps" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">24</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ed7db686-e924-4c46-aa48-27fa4e754f8d</dc:identifier>
+        <dc:title>Ronde Furtive</dc:title>
+        <dc:creator opf:file-as="Clancy, Tom" opf:role="aut">Tom Clancy</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-11-14T22:27:24+00:00</dc:date>
+        <dc:identifier opf:scheme="MOBI-ASIN">8f9c9b61-f8c5-4742-8d21-88ad19aa302c</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Aventure</dc:subject>
+        <dc:subject>Espionnage</dc:subject>
+        <dc:subject>Power Games</dc:subject>
+        <meta content="{&quot;Tom Clancy&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-04-27T15:05:04.100586+00:00" name="calibre:timestamp"/>
+        <meta content="Ronde Furtive" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

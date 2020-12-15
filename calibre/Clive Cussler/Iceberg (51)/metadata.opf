@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">51</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">98304482-56cf-4304-8162-8d16ba527f7c</dc:identifier>
+        <dc:title>Iceberg</dc:title>
+        <dc:creator opf:file-as="Cussler, Clive" opf:role="aut">Clive Cussler</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-02-25T21:00:00+00:00</dc:date>
+        <dc:description>Clive Cussler Iceberg Le navire garde-côtes Catawaba vogue dans l'Atlantique Nord, pas très loin de l'Islande. A son bord, un scientifique, Hunnewell, spécialiste des formations glaciaires. Et Dirk Pitt, l'homme des missions aventureuses en mer, bien connu des lecteurs de Trésor ou de Cyclope. Leur objectif : un iceberg, qui dérive lentement vers le sud, emportant avec lui, nettement visible en transparence, un bateau emprisonné dans sa gangue de glace. Leur mission : percer les secrets que détient dans ses flancs ... Lire la suite cet incroyable vaisseau fantôme. Des secrets dangereux, assurément. A preuve les quinze hommes qu'ils vont découvrir à son bord et qui ont été atrocement exécutés au lance-flammes.</dc:description>
+        <dc:identifier opf:scheme="MOBI-ASIN">14f9291f-f3b5-4456-bfc3-efea3ea1a0ae</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>Action &amp; Adventure</dc:subject>
+        <meta content="{&quot;Clive Cussler&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-04-27T15:06:08.330915+00:00" name="calibre:timestamp"/>
+        <meta content="Iceberg" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

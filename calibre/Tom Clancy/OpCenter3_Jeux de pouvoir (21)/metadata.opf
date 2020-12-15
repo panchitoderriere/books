@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">21</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">65666766-cb3d-4052-bba9-2e48774c89ff</dc:identifier>
+        <dc:title>OpCenter3_Jeux de pouvoir</dc:title>
+        <dc:creator opf:file-as="Clancy, Tom" opf:role="aut">Tom Clancy</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-11-29T13:30:11+00:00</dc:date>
+        <dc:identifier opf:scheme="MOBI-ASIN">c0b47b61-6ebe-4aa9-b7a9-b72902d743bd</dc:identifier>
+        <dc:language>fra</dc:language>
+        <meta content="{&quot;Tom Clancy&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-04-27T15:04:58.070603+00:00" name="calibre:timestamp"/>
+        <meta content="OpCenter3_Jeux de pouvoir" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

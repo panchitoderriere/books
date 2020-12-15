@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">60</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">356d8f8e-eba7-48f7-93f5-45e067c422ed</dc:identifier>
+        <dc:title>L'Or Des Incas</dc:title>
+        <dc:creator opf:file-as="Cussler, Clive" opf:role="aut">Clive Cussler</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1995-04-11T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="text-align: justify;margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; text-indent: 0px; "&gt;&lt;sub&gt;En 1532, une flottille indigène dépose sur une île perdue au milieu d'une mer intérieure un somptueux trésor qui comprend une chaîne en or ayant appartenu au dernier roi inca, une chaîne si lourde qu'il faut deux cents hommes pour la transporter. En 1998, dans les Andes péruviennes, un groupe d'archéologues est à deux doigts de trouver la mort au cours d'une plongée dans les profondeurs d'un puits sacré. Ils sont sauvés par l'intervention inespérée de Dirk Pitt, en mission dans les parages pour le compte de la Navy. C'est le début d'une dangereuse course contre la montre à la recherche de la légendaire chaîne d'or. Pitt ne tarde pas à découvrir que sa vie est menacée par des trafiquants déterminés à mettre, eux aussi, la main sur le trésor disparu. Avec ses fidèles compagnons et le Dr Shannon Kelsey, une jeune et séduisante archéologue, le voilà bientôt confronté à une puissante organisation internationale spécialisée dans le vol d'œuvres d'art, le trafic d'objets anciens et la contrefaçon. La guerre effrénée que se livrent ces escrocs internationaux, le FBI et le service des douanes, une tribu d'Indiens autochtones, et Pitt, qu'accompagnent ses amis de la NUMA, atteint son point culminant sous les flots, dans un univers où règnent l'ombre et la mort.&lt;/sub&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Grasset</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9782246501619</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">77b22a6c-d2bb-4b2f-8ffc-07eec57e4235</dc:identifier>
+        <dc:language>fra</dc:language>
+        <meta content="{&quot;Clive Cussler&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-04-27T15:06:32.386560+00:00" name="calibre:timestamp"/>
+        <meta content="L'Or Des Incas" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">73</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">08ead4c7-8b2a-451a-8966-4bcfbc70318c</dc:identifier>
+        <dc:title>Le Monstre sur le seuil</dc:title>
+        <dc:creator opf:file-as="Lovecraft, H.P." opf:role="aut">H.P. Lovecraft</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-06-15T22:00:00+00:00</dc:date>
+        <dc:description>The Thing on the Doorstep, 1923
+Paru dans Weird Tales, janvier 1937
+
+L'auteur distille lentement l'horreur qui nous fait basculer dans un monde d'abomination.</dc:description>
+        <dc:publisher>Ebooks libres et gratuits</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">2f31d198-ed59-411c-a1cb-1582dde49203</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>Fantastique</dc:subject>
+        <meta content="{&quot;H.P. Lovecraft&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-04-27T15:07:26.561089+00:00" name="calibre:timestamp"/>
+        <meta content="Le Monstre sur le seuil" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

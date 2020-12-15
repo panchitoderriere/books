@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">95</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">481a92ec-516b-43bf-8b87-d3e2c84cc856</dc:identifier>
+        <dc:title>La trahison de Prométhée</dc:title>
+        <dc:creator opf:file-as="Ludlum, Robert" opf:role="aut">Robert Ludlum</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2001-12-14T21:00:00+00:00</dc:date>
+        <dc:description>Après des années au service du gouvernement américain, Nicholas Bryson découvre que le Directorat, l'agence ultra-secrète qui l'employait, est en réalité de mèche avec un groupe terroriste international disposant de systèmes de surveillance insoupçonnés. Alors même qu'il n'est plus certain de sa propre identité, à qui Nicholas Bryson peut-il faire confiance ? Il a perdu tous ses repères. La mort de ses parents, lorsqu'il avait quinze ans, était-elle vraiment accidentelle ? Chargé par la CIA de mettre fin à cette folie, il va tenter de cerner les agissements et les motivations de ce mystérieux groupe " Prométhée ", qui s'est infiltré jusque dans les plus hautes sphères de l'Etat, aux Etats-Unis comme en Russie, en Chine, en France. Bryson se retrouve confronté au cauchemar d'un monde " parfait ", dans lequel chacun de ses faits et gestes a déjà été prévu... Une fois de plus, Robert Ludlum nous entraîne sur un rythme infernal dans une intrigue visionnaire, où la fiction est étrangement proche de la réalité.</dc:description>
+        <dc:publisher>B. Grasset</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9782246600718</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">afcc36d7-209d-41ba-8848-59006b7d66a2</dc:identifier>
+        <dc:language>fra</dc:language>
+        <meta content="{&quot;Robert Ludlum&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-04-27T15:09:48.821951+00:00" name="calibre:timestamp"/>
+        <meta content="La trahison de Prométhée" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

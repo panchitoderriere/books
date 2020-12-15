@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">133</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a733c3e9-8a25-4efc-9219-2ebcd5df5ad3</dc:identifier>
+        <dc:title>HISTORIA VERDADERA DE LA CONQUISTA DE LA NUEVA ESPAÑA (Spanish Edition)</dc:title>
+        <dc:creator opf:file-as="Castillo, Bernal Díaz del" opf:role="aut">Bernal Díaz del Castillo</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.2.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-07-06T05:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="MOBI-ASIN">B00LLIXIE0</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Bernal Díaz del Castillo&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-10-13T20:23:10.664781+00:00"/>
+        <meta name="calibre:title_sort" content="HISTORIA VERDADERA DE LA CONQUISTA DE LA NUEVA ESPAÑA (Spanish Edition)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">40</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b7114272-d480-417c-bca0-a51656a812d7</dc:identifier>
+        <dc:title>Créance de sang</dc:title>
+        <dc:creator opf:file-as="Connelly, Michael" opf:role="aut">Michael Connelly</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1997-12-31T23:00:00+00:00</dc:date>
+        <dc:description>Ancien du FBI, Terry McCaleb est au bout du rouleau. Opéré du coeur, il occupe son inactivité à remettre à neuf le bateau légué par son père. Cette quiétude est brutalement remise en cause par Graciela Rivers. La jeune femme lui révèle que le coeur greffé qui l'a sauvé de la mort appartenait à sa soeur, abattue par un tueur cagoulé. Terry a désormais une créance dont il doit s'acquitter, malgré lui et les fermes contre-indications de son médecin !</dc:description>
+        <dc:publisher>AlexandriZ</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">a304224b-6200-42f9-a1cc-1d8de03c7784</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>Policier</dc:subject>
+        <meta content="{&quot;Michael Connelly&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-04-27T15:05:42.224731+00:00" name="calibre:timestamp"/>
+        <meta content="Créance de sang" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

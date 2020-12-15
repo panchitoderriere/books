@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">85</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">be2de12a-1c02-458f-be25-033ad421af4d</dc:identifier>
+        <dc:title>Le duel des Gémeaux</dc:title>
+        <dc:creator opf:file-as="Ludlum, Robert" opf:role="aut">Robert Ludlum</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-07-18T14:47:20+00:00</dc:date>
+        <dc:description>Genre : Espionnage
+Titre original : The Gemini Contenders
+Traducteur : Patrick Berthon</dc:description>
+        <dc:identifier opf:scheme="MOBI-ASIN">631536bd-e853-4b30-8ace-22c2538e5fbe</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>Length:NOVEL</dc:subject>
+        <dc:subject>State:HasBeenRead</dc:subject>
+        <dc:subject>Genre:ScienceFiction</dc:subject>
+        <dc:subject>From:Alexandriz</dc:subject>
+        <dc:subject>Lang:fr</dc:subject>
+        <meta content="{&quot;Robert Ludlum&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-04-27T15:09:20.761339+00:00" name="calibre:timestamp"/>
+        <meta content="Le duel des Gémeaux" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

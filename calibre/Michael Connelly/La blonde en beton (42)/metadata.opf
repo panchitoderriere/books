@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">42</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">39563aac-962f-4683-acf7-d59e6b68942b</dc:identifier>
+        <dc:title>La blonde en béton</dc:title>
+        <dc:creator opf:file-as="Connelly, Michael" opf:role="aut">Michael Connelly</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1998-04-07T21:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;L'inspecteur Harry Bosch en est persuadé : Church, l'homme qu'il a abattu quatre ans plus tôt était bien le &lt;i&gt;Dollmaker&lt;/i&gt;,
+ le tueur en série de blondes qu'il maquillait après les avoir 
+assassinées. Le procès intenté par la veuve de Church échoue et 
+l'inspecteur est réhabilité. Tout semble être terminé lorsqu'Harry 
+reçoit une lettre qui semble une parfaite imitation des messages du &lt;i&gt;Dollmaker&lt;/i&gt;.
+ Et on retrouve une blonde sous la plaque de béton d'un immeuble de Los 
+Angeles. Le tueur aurait-il fait un disciple ou Harry Bosch a-t-il 
+abattu un innocent ? L'inspecteur doit résoudre cette énigme le plus 
+vite possible et pas seulement pour prouver qu'il a raison !&lt;/div&gt;</dc:description>
+        <dc:identifier opf:scheme="MOBI-ASIN">880b37c4-2c03-4fbc-bb93-fac47a8527b9</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>Policier</dc:subject>
+        <meta content="{&quot;Michael Connelly&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-04-27T15:05:48.235686+00:00" name="calibre:timestamp"/>
+        <meta content="La blonde en béton" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

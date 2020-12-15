@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">62</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4b7781e6-80c9-4ac8-9715-612825d02af1</dc:identifier>
+        <dc:title>American Psycho</dc:title>
+        <dc:creator opf:file-as="Ellis,Bret Easton" opf:role="aut">Ellis,Bret Easton</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1990-12-31T23:00:00+00:00</dc:date>
+        <dc:publisher>AlexandriZ</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">48aaebf8-31d5-40f6-9f43-2576af9448cb</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <meta content="{&quot;Ellis,Bret Easton&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-04-27T15:06:36.444741+00:00" name="calibre:timestamp"/>
+        <meta content="American Psycho" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

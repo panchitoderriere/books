@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">20</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5c257261-6ab4-4e84-9111-478da9121d98</dc:identifier>
+        <dc:title>Op-Center</dc:title>
+        <dc:creator opf:file-as="Clancy, Tom" opf:role="aut">Tom Clancy</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-11-19T22:39:13+00:00</dc:date>
+        <dc:identifier opf:scheme="MOBI-ASIN">1c14d2ec-f80b-494e-ac57-3677c73f91af</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>Espionnage</dc:subject>
+        <dc:subject>OpCenter</dc:subject>
+        <meta content="{&quot;Tom Clancy&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-04-27T15:04:56.072093+00:00" name="calibre:timestamp"/>
+        <meta content="Op-Center" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

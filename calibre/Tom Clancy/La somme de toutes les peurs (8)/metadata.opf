@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">8</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7489a806-f7fe-405a-97fd-7721271fd801</dc:identifier>
+        <dc:title>La somme de toutes les peurs</dc:title>
+        <dc:creator opf:file-as="Clancy, Tom" opf:role="aut">Tom Clancy</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-03-06T23:00:00+00:00</dc:date>
+        <dc:description>Après l'effondrement du communisme et la fin de la guerre du Golfe, un plan de désarmement mondial est possible, à condition que rien ne vienne enrayer un processus de paix encore fragile. Surtout pas une bombe nucléaire perdue dans la poudrière du Proche-Orient...Tandis que s'ouvre une crise sans précédent, le président des Etats-Unis perd tout contrôle de la situation. De la paix à l'apocalypse, il n'y a plus qu'un pas.A Jack Ryan de ne pas le franchir. Unissant son génie du suspense à des connaissances géopolitiques et technologiques sans faille, l'auteur de Danger immédiat nous entraîne dans un scénario hallucinant qui n'est peut-être que la réalité de demain...</dc:description>
+        <dc:publisher>Albin Michel</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">023dffbd-d736-4aed-8967-2fbab57dfc01</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>Techno-Thriller</dc:subject>
+        <meta content="{&quot;Tom Clancy&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-04-27T15:04:20.019336+00:00" name="calibre:timestamp"/>
+        <meta content="La somme de toutes les peurs" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

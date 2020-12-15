@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">38</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ee5f6d9a-1211-4b34-9a24-d91eb50b0777</dc:identifier>
+        <dc:title>L'épouvantail</dc:title>
+        <dc:creator opf:file-as="Connelly, Michael" opf:role="aut">Michael Connelly</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-05-14T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;Viré du LA Times, le journaliste Jack McEvoy hésite entre le dégoût et la rage. Mais c'est la fierté qui finalement l'emporte : dans les quinze jours qu'il lui reste, il compte mener une enquête qui lui vaudra ? excusez du peu - le prix Pulitzer. Et les pontes de la direction n'auront plus que leurs yeux pour pleurer.&lt;/p&gt;&lt;p&gt;Son temps est compté, et a priori l'histoire d'Alonzo Winslow, un dealer meurtrier de 16 ans, n'a rien de prometteur : le gamin a avoué. Mais dans des conditions pour le moins douteuses... Embarqué dans une aventure qui le dépasse, convaincu que la police a triché, Jack lance un SOS. à Rachel Walling, l'agent du FBI qu'il aime depuis toujours.&lt;/p&gt;&lt;p&gt;Sans se douter que dans le même mouvement, il enclenche le piège machiavélique tendu par un tueur d'une intelligence et d'une cruauté ahurissantes.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Seuil</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9782020923859</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">c67ad40c-c9b5-48dd-82eb-aead210ff1c2</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>Thriller</dc:subject>
+        <dc:subject>Policier</dc:subject>
+        <meta content="{&quot;Michael Connelly&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-04-27T15:05:38.246342+00:00" name="calibre:timestamp"/>
+        <meta content="L'épouvantail" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

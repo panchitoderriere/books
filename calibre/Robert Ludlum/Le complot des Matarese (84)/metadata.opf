@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">84</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0bb8ea80-edc0-4db8-aaa7-429608755acb</dc:identifier>
+        <dc:title>Le complot des Matarèse</dc:title>
+        <dc:creator opf:file-as="Ludlum, Robert" opf:role="aut">Robert Ludlum</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-07-01T21:21:45+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;h3&gt;Amazon.com Review&lt;/h3&gt;&lt;p&gt;On a snowy night in northern Russia, balding and bedridden Maria Yuriskaya prepares herself for the last rites of death. When a priest approaches her bed and asks for a confession, she unloads a whopper of a secret and sets off &lt;em&gt;The Matarese Countdown&lt;/em&gt;. Apparently, the accidental killing of her world-class nuclear physicist husband by a wild bear was not an accident after all. The death was a set up and Maria knows who did it. The priest thinks she's having a senile fit, but she's serious. So serious, that uttering the dreaded words, "The Matarese ... the consummate evil" seems to vacuum the life right out of her. The legendary Matarese, the planet-threatening dynasty of killers from &lt;em&gt;The Matarese Countdown&lt;/em&gt; is a must for Ludlum fans, but it's not for sissies. Rugged, macho observations abound: "They waded into shore as the clattering motors came to a stop, and as women tend to do, Leslie and Toni embraced," and "Maybe the women would change your mind. After all, it was the women, the mothers, who got us all through the Ice Age. In the animal kingdom, the female is the most vicious in protecting her young." In other words, if a post Ice Age feminist read this book and ran into Ludlum, she probably wouldn't embrace him. &lt;em&gt;--Rebekah Warren&lt;/em&gt;&lt;/p&gt;&lt;h3&gt;Review&lt;/h3&gt;&lt;p&gt;"Welcome to Robert Ludlum's world...fast pacing, tight plotting, international intrigue."&lt;br&gt;&lt;em&gt;--The Plain Dealer,&lt;/em&gt; Cleveland  &lt;/p&gt;&lt;p&gt;"If a Pulitzer Prize were awarded for escapist fiction, Robert Ludlum undoubtedly would have won it. Ten times over."&lt;br&gt;&lt;em&gt;--Mobile Register&lt;/em&gt; -- &lt;em&gt;Review&lt;/em&gt;&lt;/p&gt;
+
+&lt;/div&gt;</dc:description>
+        <dc:publisher>Le Livre de Poche</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">26348c2b-9df0-4490-80e4-5157fd1bdaf4</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Espionnage</dc:subject>
+        <meta content="{&quot;Robert Ludlum&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-04-27T15:09:18.713825+00:00" name="calibre:timestamp"/>
+        <meta content="Le complot des Matarèse" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

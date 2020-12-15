@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">81</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3c45f757-9da6-4397-959b-bd9ad1747e27</dc:identifier>
+        <dc:title>La Trahison Tristan</dc:title>
+        <dc:creator opf:file-as="Ludlum, Robert" opf:role="aut">Robert Ludlum</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-11-09T10:18:05+00:00</dc:date>
+        <dc:publisher>Grasset &amp; Fasquelle Paris</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">e5c2eeb7-4ab8-4daf-a3f2-103e9debce0d</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>Thriller</dc:subject>
+        <meta content="{&quot;Robert Ludlum&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-04-27T15:07:56.650440+00:00" name="calibre:timestamp"/>
+        <meta content="La Trahison Tristan" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">41</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d23a34a3-ca44-4ab6-9aa7-acdeabf42863</dc:identifier>
+        <dc:title>La lune était noire</dc:title>
+        <dc:creator opf:file-as="Connelly, Michael" opf:role="aut">Michael Connelly</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-01-07T22:54:56+00:00</dc:date>
+        <dc:description>&lt;p&gt;En liberté conditionnelle depuis dix mois, Cassie Black est devenue 
+vendeuse de voitures dans un garage de San Francisco. Sa petite fille 
+née en prison a été confiée depuis à un honorable couple de la ville. 
+Cassie rêve de la récupérer pour quitter le pays avec elle. Aussi 
+lorsque son vieux copain Leo lui propose de voler une mallette bourrée 
+de dollars dans la suite d'un gros joueur du casino Cleopatra, à Las 
+Vegas, Cassie accepte. Elle retrouve tous ses talents de rat d'hôtel et 
+réalise l'opération sans anicroche. Mais lorsque les deux complices 
+découvrent que la somme dérobée est très supérieure à ce qui était 
+prévu, ils soupçonnent un coup fourré. D'autant qu'un certain Karch, un 
+individu sadique chargé de la sécurité du casino, semble avoir suivi la 
+piste pour coincer la voleuse. &lt;/p&gt;</dc:description>
+        <dc:publisher>Seuil</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">73c43e08-e1e4-4bd6-836c-58e5d7a06f91</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Policier</dc:subject>
+        <meta content="{&quot;Michael Connelly&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-04-27T15:05:44.216747+00:00" name="calibre:timestamp"/>
+        <meta content="La lune était noire" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">36</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">22e53029-c5ea-4470-8a2a-9fde66d9bb08</dc:identifier>
+        <dc:title>Les neuf dragons</dc:title>
+        <dc:creator opf:file-as="Connelly, Michael" opf:role="aut">Michael Connelly</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-06-20T23:12:42+00:00</dc:date>
+        <dc:publisher>Seuil</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">708c293b-59e5-4a2b-8fc2-5ac907a9901a</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Michael Connelly&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-04-27T15:05:30.232665+00:00" name="calibre:timestamp"/>
+        <meta content="Les neuf dragons" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

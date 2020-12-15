@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">32</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d40c36df-11a3-4079-bd90-8bde3942aaa6</dc:identifier>
+        <dc:title>L'oiseau des ténèbres</dc:title>
+        <dc:creator opf:file-as="Connelly, Michael" opf:role="aut">Michael Connelly</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2001-08-14T22:00:00+00:00</dc:date>
+        <dc:description>Pourquoi Terry McCaleb, ex-agent du FBI, a-t-il accepté d'analyser un dossier criminel que lui a apporté Jaye Winston, une de ses anciennes collaboratrice du Bureau ? Trois ans après son opération cardiaque, marié et père de famille, Terry n'aspire qu'à la tranquillité. En apparence, car l'affaire que lui soumet Jaye semble le mettre à nouveau sur la piste d'un serial killer, sa spécialité. Le modus operandi du criminel révèle un tueur sadique. Sa victime, Edward Gunn, un délinquant connu des services de police de Los Angeles, bénéficia jadis d'un non-lieu pour l'assassinat d'une prostituée. Malgré lui, Terry est captivé par le dossier. Le profil psychologique le mène sur la piste inattendue d'un homme qu'il estime : l'inspecteur de troisième classe Harry Bosch. Pour l'heure, celui-ci est le témoin essentiel de l'accusation, au procès de David Storey, un metteur en scène sulfureux accusé du meurtre d'une jeune comédienne.</dc:description>
+        <dc:publisher>Seuil</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">2020444607</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">418c816b-07f9-4f30-868f-127822078181</dc:identifier>
+        <dc:language>fra</dc:language>
+        <meta content="{&quot;Michael Connelly&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-04-27T15:05:22.210321+00:00" name="calibre:timestamp"/>
+        <meta content="L'oiseau des ténèbres" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

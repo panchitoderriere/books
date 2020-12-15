@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">28</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d7e8100d-e9d0-4cb6-b613-43fb525e086f</dc:identifier>
+        <dc:title>Jeux de Guerre</dc:title>
+        <dc:creator opf:file-as="Clancy, Tom" opf:role="aut">Tom Clancy</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2000-02-14T23:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;Tom Clancy abandonne la guerre sous-marine (Octobre rouge) pour le terrorisme. Paisible professeur d'histoire navale, le héros de ce livre se troue à Londres quand un attentat se déroule sous ses yeux. Il s'interpose instinctivement ; blessé, il apprend qu'il a sauvé la vie du prince et de la princesse de Galles et de leur fils, visés par l'I.R.A. Le voici promu héros national... et cible, à son tour, des terroristes. Une documentation très riche, une précision incroyable, pour cinq cents pages de suspense à l'état pur ! Le figaro Magazine. Tom Lancy est le meilleur qui existe. Sand Francisco Chronicité.&lt;/p&gt;</dc:description>
+        <dc:publisher>Le Livre de Poche</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9782253058021</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">8fdb0c71-1380-4ea1-bc29-fe5a23b1381e</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>Policier &amp; Thriller</dc:subject>
+        <meta content="{&quot;Tom Clancy&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-04-27T15:05:14.197405+00:00" name="calibre:timestamp"/>
+        <meta content="Jeux de Guerre" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">47</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8103ab4b-edd1-4b2e-a250-ed03e70c386b</dc:identifier>
+        <dc:title>Programmes fantômes</dc:title>
+        <dc:creator opf:file-as="Clancy, Tom" opf:role="aut">Tom Clancy</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-11-04T18:39:28+00:00</dc:date>
+        <dc:identifier opf:scheme="MOBI-ASIN">21948946-5d83-4e60-aac3-07582d1f1402</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>Espionnage</dc:subject>
+        <dc:subject>Lang:fr</dc:subject>
+        <dc:subject>net force</dc:subject>
+        <meta content="{&quot;Tom Clancy&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-04-27T15:06:00.299412+00:00" name="calibre:timestamp"/>
+        <meta content="Programmes fantômes" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">33</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4a378fbf-e152-47a6-a15c-2ce7b73634cf</dc:identifier>
+        <dc:title>Wonderland Avenue</dc:title>
+        <dc:creator opf:file-as="Connelly, Michael" opf:role="aut">Michael Connelly</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2003-04-15T04:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Harry Bosch, inspecteur au commissariat d'Hollywood, doit enquêter sur la découverte de l'humérus d'un enfant apparemment enterré à la va-vite il y a une vingtaine d'années et après de nombreux mauvais traitements...&lt;/p&gt;</dc:description>
+        <dc:publisher>Seuil</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">2020590778</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">02190741-ad68-46fd-a534-8a8e2dfbd045</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>Policier</dc:subject>
+        <meta content="{&quot;Michael Connelly&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-04-27T15:05:24.212481+00:00" name="calibre:timestamp"/>
+        <meta content="Wonderland Avenue" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

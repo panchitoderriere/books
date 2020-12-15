@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">57</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">068090fe-dcfe-42ff-8bf9-cc0031d35106</dc:identifier>
+        <dc:title>Lumière morte</dc:title>
+        <dc:creator opf:file-as="Connelly, Michael" opf:role="aut">Michael Connelly</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-12-13T17:41:33+00:00</dc:date>
+        <dc:description>&lt;p&gt;L'ex des Homicides Harry Bosch n'a plus le badge qui lui ouvrait toutes 
+les portes et le couvrait en cas d'ennui. Mais rien à faire : il 
+élucidera le meurtre d'Angella Benton, jeune assistante de production 
+retrouvée morte quelques jours avant un des plus gros hold-up 
+d'Hollywood. Sauf que dès le départ, " on " lui ordonne de renoncer. 
+Obstiné, Bosch rencontre un des deux policiers ayant enquêté sur le 
+braquage. Celui-ci lui révèle qu'un agent du FBI, une femme, a jadis 
+téléphoné à son collègue pour lui révéler une anomalie dans les numéros 
+de billets recensés par la banque, puis volés. Ainsi commence un des 
+romans les plus sombres et inquiétants de Michael Connelly. Difficulté 
+de l'enquête et présence obsédante d'une force inconnue qui tire toutes 
+les ficelles et entraîne Bosch dans une terrible descente aux enfers, 
+Lumière morte marque le grand retour d'Harry Bosch. &lt;/p&gt;</dc:description>
+        <dc:identifier opf:scheme="MOBI-ASIN">060f0d29-adfa-4ce2-9559-605944fba034</dc:identifier>
+        <dc:language>fra</dc:language>
+        <meta content="{&quot;Michael Connelly&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-04-27T15:06:26.430277+00:00" name="calibre:timestamp"/>
+        <meta content="Lumière morte" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

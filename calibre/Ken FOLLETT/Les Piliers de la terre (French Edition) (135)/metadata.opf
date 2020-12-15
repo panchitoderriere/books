@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">135</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f777f078-1a00-48bc-a46c-38b34ed14a61</dc:identifier>
+        <dc:title>Les Piliers de la terre (French Edition)</dc:title>
+        <dc:creator opf:file-as="FOLLETT, Ken" opf:role="aut">Ken FOLLETT</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.2.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-10-08T05:00:00+00:00</dc:date>
+        <dc:description>XIIe siècle. L’Angleterre est déchirée par la guerre civile et affaiblie par la famine et une épouvantable crise religieuse. À Kingsbridge, la construction de la plus grande cathédrale du monde suscite rivalités, violences et luttes de pouvoir. Les destins de Philip, le prieur, Jack, le bâtisseur ou la jeune aristocrate Aliena s’entremêlent dans cette superbe épopée romanesque où l’amour et la haine sont omniprésents.
+Une fresque monumentale par le plus grand bâtisseur de romans historiques de notre époque.</dc:description>
+        <dc:publisher>ROBERT LAFFONT/BOUQUINS/SEGHER</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B015YLHDHM</dc:identifier>
+        <dc:language>fra</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Ken FOLLETT&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-10-13T20:23:10.968369+00:00"/>
+        <meta name="calibre:title_sort" content="Les Piliers de la terre (French Edition)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
