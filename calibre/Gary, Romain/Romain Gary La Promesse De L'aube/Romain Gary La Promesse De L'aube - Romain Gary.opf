@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">47417416-0f0c-45b4-8ed1-846c760686ea</dc:identifier>
+        <dc:title>Romain Gary La Promesse De L'aube</dc:title>
+        <dc:creator opf:file-as="Gary, Romain" opf:role="aut">Romain Gary</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.15.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Le livre La promesse de l'aube, de l'auteur Romain Gary.</dc:description>
+        <dc:language>eng</dc:language>
+        <dc:subject>romain gary. littérature. France.</dc:subject>
+        <meta name="calibre:timestamp" content="2023-04-19T03:34:22.753153+00:00"/>
+        <meta name="calibre:title_sort" content="Romain Gary La Promesse De L'aube"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="Romain Gary La Promesse De L'aube - Romain Gary.jpg"/>
+    </guide>
+</package>
